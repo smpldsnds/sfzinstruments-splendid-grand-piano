@@ -1,6 +1,7 @@
+# editor backup files
 *~
 *.swp
 *.flac
-.DS_Store
 .scripts/
+.DS_Store
 
